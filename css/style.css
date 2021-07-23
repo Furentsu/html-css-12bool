@@ -14,9 +14,9 @@
     line-height: 200px;
 }
 
-.col-6 > .row .col-2,
-.col-6 > .row .col-6,
-.col-6 > .row .col-8 {
+.col-xs-6 > .row .col-xs-2,
+.col-xs-6 > .row .col-xs-6,
+.col-xs-6 > .row .col-xs-8 {
     background-color: rgb(241, 141, 141);
     border: 3px solid pink;
 }
